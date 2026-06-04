@@ -110,12 +110,6 @@ The Invigilator Clock successfully displays and updates time using the 8051 micr
 * Timer and Interrupt Handling
 * Hardware-Software Integration
 
-## Author
-
-Rajesh Joshi
-B.Tech Electronics and Communication Engineering
-Nirma University
-
 ## Project Status
 
 Completed
